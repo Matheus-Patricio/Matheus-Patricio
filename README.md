@@ -8,7 +8,7 @@ I'm Matheus Patricio, Tech enthusiast and software development student. I currel
 - 🔭 I am currently looking for my first internship in development
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me in [Linkedin]https://www.linkedin.com/in/matheus-patricio-5662b222b/
+- 📫 How to reach me in: [Linkedin](https://www.linkedin.com/in/matheus-patricio-5662b222b/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cats.
   
